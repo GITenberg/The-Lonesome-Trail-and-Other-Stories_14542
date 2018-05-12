@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '275'
     url: http://www.gutenberg.org/2009/agents/275
 description: Cover -- Table of Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14542#The-Lonesome-Trail-and-Other-Stories
 gutenberg_bookshelf: Western
 gutenberg_issued: '2004-12-31'
 gutenberg_type: Text
